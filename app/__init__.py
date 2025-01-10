@@ -66,5 +66,5 @@ def create_app(config_name='development'):
 
     return app
 
-# Change to test workflow V2
+# Change to test workflow 3
 app = create_app()
